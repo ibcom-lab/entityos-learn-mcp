@@ -1,6 +1,4 @@
-entityOS Learn  
-==============
-Model Context Protocol (MCP)
+ entityOS Learn | Model Context Protocol (MCP)
 ----------------------------
 
 Learn how to create a proxy Model Context Protocol Endpoint (Resources/Tools) for use by GenAI services/agents.
