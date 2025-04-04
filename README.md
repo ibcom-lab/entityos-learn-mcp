@@ -14,6 +14,9 @@ Learn how to create a proxy Model Context Protocol Endpoint (Resources/Tools) fo
 - [learn.entityos.cloud/learn-function-automation](https://learn.entityos.cloud/learn-function-automation)
 - [docs.entityos.cloud/gettingstarted_http_proxy](https://docs.entityos.cloud/gettingstarted_http_proxy)
 
+### Resources:
+- [entityos.ai](entityos.ai)
+
 ---
 
 [learn.entityos.cloud](https://learn.entityos.cloud)
